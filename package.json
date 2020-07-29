@@ -1,0 +1,19 @@
+{
+  "name": "tinder-dekctop-pwa",
+  "version": "1.0.0",
+  "description": "Desktop web client for Tinder",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloodlordik/tinder-dekctop-pwa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloodlordik/tinder-dekctop-pwa/issues"
+  },
+  "homepage": "https://github.com/bloodlordik/tinder-dekctop-pwa#readme"
+}
