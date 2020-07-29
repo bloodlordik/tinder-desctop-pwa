@@ -1,2 +1,2 @@
-# tinder-desctop-pwa
-Desctop web client for Tinder
+# tinder-desktop-pwa
+Desktop web client for Tinder
